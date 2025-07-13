@@ -87,7 +87,7 @@ Instead of building dashboards, just build tools. Let the model handle the logic
 
 ## 📌 Credits
 
-Built by [Your Name]  
+Built by Haroon Sohail  
 Weekend project inspired by MCP exploration
 
 ---
